@@ -15,7 +15,7 @@ export default function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Matt Delac
+            Priya Bhoomy
           </a>{" "}
           and is{" "}
           <a
