@@ -19,7 +19,7 @@ export default function App() {
           </a>{" "}
           and is{" "}
           <a
-            href="https://github.com/wecodeschool/react-weather-app"
+            href="https://github.com/priyabhoomy-lang/my-react-app-new/tree/master"
             target="_blank"
             rel="noopener noreferrer"
           >
